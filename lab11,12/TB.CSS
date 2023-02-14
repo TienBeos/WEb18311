@@ -1,0 +1,57 @@
+.table, th, td {
+    border: none;
+    border-collapse: collapse;
+    border-radius:5px ;
+    
+}
+th, td{
+    padding: 5px;
+}
+th{
+    text-align: left;
+}
+.or{
+    border-radius: 50%;
+    width: 50px;
+}
+.oi{
+    font-family: sans-serif;
+}
+button{
+    border: none;
+    border-radius: 5px;
+}
+.o{
+    color: gray;
+}
+.kh{
+    color: green;
+}
+.ng1{
+    color: purple;
+    background-color: antiquewhite;
+}
+.ng2{
+    color: blue;
+    background-color: antiquewhite;
+}
+.ng3{
+    color: rgba(83, 116, 29, 0.836);
+    background-color: antiquewhite;
+}
+.ng4{
+    color: palevioletred;
+    background-color: antiquewhite;
+}
+.ng5{
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+.ng6{
+    color: aqua;
+    background-color: antiquewhite;
+}
+.ng7{
+    color: chocolate;
+    background-color: antiquewhite;
+}
